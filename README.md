@@ -1,6 +1,8 @@
 # js-web-scrapper
 Web Scrapper built in JS to scrap repositories and its issues to store in a json format from Github.
 
+Now supports creation of .pdf files into specific Topic Folders with relevant Issue Information.
+
 Sample json file included. Data format below :
 
 ```javascript
